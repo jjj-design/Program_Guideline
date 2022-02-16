@@ -10,7 +10,6 @@
 
 
 [[guide_bsc_gaibufusoku]]
-==== 外部風速：
 
 [[guide_nw_takamado]]
 ==== 高窓：
